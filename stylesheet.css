@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(42, 41, 118);
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+
+}
+h2{
+    color: antiquewhite;
+}
+
+*{
+    color: rgb(237, 224, 226);
+}
